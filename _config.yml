@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qing Cong"
+title                    : "Qing Cong | Doris"
 title_separator          : "-"
-name                     : &name "Qing Cong"
+name                     : &name "Qing Cong | Doris"
 description              : &description "Ph.D. @ Department of Statistics"
 url                      : https://qcongdoris.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qing Cong | 丛晴"
+  name             : "Qing Cong | Doris"
   avatar           : "profile.png"
   bio              : "Ph.D. @ Department of Statistics<br>The Chinese University of Hong Kong"
   location         :  # "Shatin, New Territories, Hong Kong"
