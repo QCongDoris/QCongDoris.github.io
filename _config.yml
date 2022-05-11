@@ -83,7 +83,7 @@ author:
   name             : "Qing Cong | 丛晴"
   avatar           : "profile.png"
   bio              : "Ph.D. @ Department of Statistics<br>The Chinese University of Hong Kong"
-  location         : "Shatin, New Territories, Hong Kong"
+  location         :  # "Shatin, New Territories, Hong Kong"
   employer         :
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # example: "http://yourfullgooglescholarurl.com"
