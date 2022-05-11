@@ -89,7 +89,8 @@ author:
   googlescholar    :  # example: "http://yourfullgooglescholarurl.com"
   email            : qingcong@link.cuhk.edu.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.sta.cuhk.edu.hk/people/phd-mphil-students/"
+  uri              :  # "https://www.sta.cuhk.edu.hk/people/phd-mphil-students/"
+  education        :  "https://www.sta.cuhk.edu.hk/people/phd-mphil-students/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/qingcongdoris/"
+  linkedin         : "https://www.linkedin.com/in/qingcongdoris"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
