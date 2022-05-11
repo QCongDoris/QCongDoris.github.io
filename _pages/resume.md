@@ -12,19 +12,16 @@ redirect_from:
 A PDF version of my resumé is availiable [here](https://QCongDoris.github.io/files/CV-CongQing.pdf).
 
 ## Education
-======
-* B.Sc. in Statistics | The Chinese University of Hong Kong, Hong Kong, China | Jul 2017 – Aug 2021
-* Visiting Exchange Student, The Faculty of Science | The University of British Columbia, Vancouver, BC, Canada | Aug 2019 – May 2020
+* B.Sc. in Statistics / The Chinese University of Hong Kong, Hong Kong, China / Jul 2017 – Aug 2021
+* Visiting Exchange Student, The Faculty of Science / The University of British Columbia, Vancouver, BC, Canada / Aug 2019 – May 2020
 
 ## Awards & Honors
-======
 * Chung Chi College Departmental Prize, 2021
 * Department of Statistics Scholarship, 2019
 * Dean’s Honour List of Science Faculty, 2019
 * College Head’s List of Chung Chi College, 2018
 
 ## Professional Experience
-======
 * Department of Statistics, The Chinese University of Hong Kong & NVIDIA Corporation & TianYing Holding Limited (Hong Kong)
   * Position: Senior Research Assistant (Joint Position)
   * Duration: Mar 2021 – Jul 2022
@@ -41,7 +38,6 @@ A PDF version of my resumé is availiable [here](https://QCongDoris.github.io/fi
   * Supervisor: Professor Siu Hung, CHEUNG
 
 ## Leadership Experience
-======
 * Mainland Undergraduate Students Association (MUA), The Chinese University of Hong Kong
   * Position: Student Representative of Chung Chi College
   * Duration: Apr 2018 – Apr 2019
@@ -51,13 +47,11 @@ A PDF version of my resumé is availiable [here](https://QCongDoris.github.io/fi
   * Duration: Aug 2018
 
 ## Language
-======
 * Mandarin (Native)
 * English (Fluent)
 * Cantonese (Communicative)
 
 ## Programming Skills
-======
 * Python
 * R
 * C++
