@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Qing Cong | Doris"
 title_separator          : "-"
-name                     : &name "Qing Cong | Doris"
+name                     : &name "Qing Cong"
 description              : &description "Senior Research Assistant @ Department of Statistics"
 url                      : https://qcongdoris.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
