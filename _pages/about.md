@@ -7,7 +7,7 @@ redirect_from:
   - /about/
 ---
 
-Hi all! Welcome to my homepage.
+Hi all! My name is Qing, Cong (丛晴 in Chinese), and one may also call me Doris. Welcome to my homepage!
 
 I am currently a research assistant in [the Department of Statistics](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/) under the supervision of [Professor Hoi Ying Wong](https://www.sta.cuhk.edu.hk/peoples/hywong/). While my interests are diverse, I am fascinated by statistical machine learning in financial trading. I am currently working on the interpretations and evaluations of classical black-box models.
 
