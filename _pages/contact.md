@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-One can approach me through the contact details listed below.
+Communications are welcomed through the contact details below.
 
 ## Office:
 Lady Shaw Building (LSB), The Chinese University of Hong Kong (CUHK), Shatin, N.T., Hong Kong
