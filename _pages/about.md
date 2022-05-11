@@ -13,5 +13,5 @@ I am currently a research assistant in [the Department of Statistics](https://ww
 
 I was born and raised in Shanxi Province, China Mainland. As a multilingual learner, I speak Mandarin and English, as well as elementary-level Cantonese.
 
-My resumé is availiable [here](https://qcongdoris.github.io//resume/). Communications are welcomed through the listed [contact details].(https://qcongdoris.github.io//contact/).
+My resumé is availiable [here](https://qcongdoris.github.io//resume/). Communications are welcomed through the listed [contact details](https://qcongdoris.github.io//contact/).
 
