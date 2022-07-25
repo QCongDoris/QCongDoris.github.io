@@ -12,6 +12,6 @@ redirect_from:
 Communications are welcomed through the contact details below.
 
 ## Office:
-Lady Shaw Building (LSB), The Chinese University of Hong Kong (CUHK), Shatin, N.T., Hong Kong
+Room 123, Lady Shaw Building (LSB), The Chinese University of Hong Kong (CUHK), Shatin, N.T., Hong Kong
 ## Emails:
 [qingcong@link.cuhk.edu.hk](mailto://qingcong@link.cuhk.edu.hk)
