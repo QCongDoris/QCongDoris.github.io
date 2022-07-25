@@ -25,7 +25,7 @@ A PDF version of my resumé is availiable [here](https://QCongDoris.github.io/fi
 * Department of Statistics, The Chinese University of Hong Kong & NVIDIA Corporation & TianYing Holding Limited (Hong Kong)
   * Position: Senior Research Assistant (Joint Position)
   * Duration: Mar 2021 – Jul 2022
-  * Supervisor: Professor Hoi Ying, WONG(CUHK), Dr. Charles Cheung(NVIDIA), Mr. MOK Yue Pang(TianYing)
+  * Supervisor: Professor Hoi Ying, WONG(CUHK), Dr. Charles Cheung(NVIDIA)
 
 * Centre for Clinical Research and Biostatistics (CCRB), School of Public Health, The Chinese University of Hong Kong
   * Position: Junior Research Assistant (Summer Internship)
