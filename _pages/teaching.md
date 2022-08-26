@@ -11,5 +11,5 @@ redirect_from:
 
 Communications are welcomed through the contact details below.
 
-## RMSC 2001 Introduction to Risk Management (2022-2023 Fall)
+## RMSC2001  Introduction to Risk Management (2022-2023 Fall)
 Instructor: [Dr. CHEUNG, King Chau](https://www.sta.cuhk.edu.hk/peoples/simonkc/)
