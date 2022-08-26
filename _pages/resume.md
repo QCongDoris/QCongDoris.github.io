@@ -12,6 +12,7 @@ redirect_from:
 A PDF version of my resumé is availiable [here](https://QCongDoris.github.io/files/CV-CongQing.pdf).
 
 ## Education
+* Ph.D. in Statistics / The Chinese University of Hong Kong, Hong Kong, China / Aug 2022 – Current
 * B.Sc. in Statistics / The Chinese University of Hong Kong, Hong Kong, China / Jul 2017 – Aug 2021
 * Visiting Exchange Student, The Faculty of Science / The University of British Columbia, Vancouver, BC, Canada / Aug 2019 – May 2020
 
