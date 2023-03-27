@@ -9,7 +9,7 @@ redirect_from:
 
 Hi all! My name is Qing, Cong (丛晴 in Chinese), and people may also call me Doris. Welcome to my homepage!
 
-I am currently a first year Ph.D. student in [the Department of Statistics](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/) under the supervision of [Professor Hoi Ying, WONG](https://www.sta.cuhk.edu.hk/peoples/hywong/). Before joining Prof. Wong's team, I received my bachelor's degree in Statistics from CUHK in 2021. While my interests are diverse, I am fascinated by statistical machine learning in financial trading. I am currently working on the interpretations and evaluations of classical black-box models.
+I am currently a first year Ph.D. student in [the Department of Statistics](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/) under the supervision of [Professor Hoi Ying, WONG](https://www.sta.cuhk.edu.hk/peoples/hywong/). Before joining Prof. Wong's team, I received my bachelor's degree in Statistics from CUHK in 2021. While my interests are diverse, I am fascinated by stochastic optimal control and statistical machine learning in financial trading.
 
 I was born and raised in Shanxi Province, China Mainland. As a multilingual learner, I speak Mandarin and English, as well as elementary-level Cantonese.
 
