@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my resumé is availiable [here](https://QCongDoris.github.io/files/CV-CongQing.pdf).
+A PDF version of my resumé is availiable [here](https://QCongDoris.github.io/files/CV-CONGQing.pdf).
 
 ## Education
 * Ph.D. in Statistics / The Chinese University of Hong Kong, Hong Kong, China / Aug 2022 – Current
