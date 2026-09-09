@@ -33,7 +33,7 @@ This course provides a comprehensive introduction to data science principles and
 
 - Martellini, L., Priaulet, P., & Priaulet, S. (2003). *Fixed-income securities: valuation, risk management and portfolio strategies*. John Wiley & Sons.
 
-## ReferenceBook
+## Reference Book
 - Hull, J. (1993). *Options, futures, and other derivative securities* (Vol. 7). Englewood Cliffs, NJ: prentice hall.
 
 <!-- ## Suggested Learning Schedule
